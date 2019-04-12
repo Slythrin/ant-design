@@ -15,6 +15,14 @@ timeline: true
 
 ---
 
+## 3.16.3
+
+`2019-04-12`
+
+- 🐞 修复 Progress 当 status undefined 时的展示。[#15951](https://github.com/ant-design/ant-design/pull/15951)
+- 🐞 修复 Menu 折叠时 Tooltips 的问题。[#15948](https://github.com/ant-design/ant-design/pull/15948)
+- 🐞 修复 Switch 应该被 Label 触发的问题。[#15923](https://github.com/ant-design/ant-design/pull/15923)
+
 ## 3.16.2
 
 `2019-04-07`

@@ -15,6 +15,14 @@ timeline: true
 
 ---
 
+## 3.16.3
+
+`2019-04-12`
+
+- 🐞 Fix Progress show when status undefined. [#15951](https://github.com/ant-design/ant-design/pull/15951)
+- 🐞 Fix Tooltips show Menu collapsed. [#15948](https://github.com/ant-design/ant-design/pull/15948)
+- 🐞 Fix Switch trigger by Label problem. [#15923](https://github.com/ant-design/ant-design/pull/15923)
+
 ## 3.16.2
 
 `2019-04-07`
